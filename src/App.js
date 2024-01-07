@@ -10,7 +10,7 @@ function App() {
 
   const handleLanguageChange = (e) => {
     setLang(e.target.value);
-    let loc = "http://www.localhost:3000";
+    let loc = "https://avenazim.github.io/orange-portfolio";
     window.location.replace(loc + "?lng=" + e.target.value);
   };
 

@@ -13,7 +13,7 @@ i18n
       checkWhitelist: true
     },
     backend: {
-      loadPath: "/locales/{{lng}}/translation.json",
+      loadPath: "/orange-portfolio/locales/{{lng}}/translation.json",
     },
   });
 
