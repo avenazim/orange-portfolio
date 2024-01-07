@@ -1,0 +1,111 @@
+{
+  "topbar": {
+    "home": "start",
+    "skills": "umiejętnośc",
+    "experience": "doświadczenie",
+    "my_work": "projekty",
+    "about_me": "o mnie",
+    "contact": "kontakt"
+  },
+  "header": {
+    "heading": "Imię Nazwisko",
+    "subheading": "tytuł zawodowy"
+  },
+  "skills": {
+    "title": "moje umiejętności",
+    "hard": {
+      "title": "twarde",
+      "skill1": "umiejętność1",
+      "skill2": "umiejętność2",
+      "skill3": "umiejętność3",
+      "skill4": "umiejętność4",
+      "skill5": "umiejętność5",
+      "skill6": "umiejętność6",
+      "skill7": "umiejętność7",
+      "skill8": "umiejętność8",
+      "skill9": "umiejętność9",
+      "skill10": "umiejętność10"
+    },
+    "soft": {
+      "title": "miękkie",
+      "skill1": "umiejętność1",
+      "skill2": "umiejętność2",
+      "skill3": "umiejętność3",
+      "skill4": "umiejętność4",
+      "skill5": "umiejętność5",
+      "skill6": "umiejętność6",
+      "skill7": "umiejętność7",
+      "skill8": "umiejętność8",
+      "skill9": "umiejętność9",
+      "skill10": "umiejętność10"
+    },
+    "languages": {
+      "title": "languages",
+      "language1": "język1",
+      "language2": "język2",
+      "language3" : "język3",
+      "language4": "język4",
+      "native": "język ojczysty",
+      "advanced": "zaawansowany",
+      "basic": "podstawowy"
+    }
+  },
+  "exp":{
+    "title": "doświadczenie komercyjne",
+    "firm_1_name": "Nazwa firmy",
+    "firm_1_years": "01.01.2016 - 01.01.2022",
+    "firm_1_role": "Nazwa Twojej profesji w tej firmie",
+    "firm_2_name": "Nazwa firmy",
+    "firm_2_years": "01.01.2022 - 31.12.2023",
+    "firm_2_role": "Nazwa Twojej profesji w tej firmie"
+  },
+  "my_work": {
+    "title": "Prywatne projekty",
+    "project_1_name": "nazwa projektu 1",
+    "project_1_link": "#",
+    "project_2_name": "nazwa projektu 2",
+    "project_2_link": "#",
+    "more": "sprawdź także moje bazgroły na",
+    "github": "github",
+    "github_link": "https://github.com/"
+  },
+  "about_me": {
+    "title": "o mnie",
+    "intro": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "content": "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+  },
+  "contact": {
+    "title": "Pozostańmy w kontakcie",
+    "city": "Miasto, kraj",
+    "mail": "twójmail@przykład.com",
+    "github": "https://github.com/",
+    "linkedin": "https://www.linkedin.com/in/",
+    "button": "pobierz moje cv",
+    "form": {
+      "name": "imię",
+      "email": "email",
+      "message": "wiadomość",
+      "nameValidation": "imię jest wymagane",
+      "emailValidation": "e-mail jest wymagany",
+      "emailValidationCorrect": "e-mail jest nieprawidłowy",
+      "messageValidation": "wiadomość jest wymagana",
+      "message_success": "wiadomość została wysłana!"
+    }
+  },
+  "footer": {
+    "copyright": "Copyright ewanazim.pl 2023. Wszelkie prawa zastrzeżone."
+  },
+  "buttons" : {
+    "download": "pobierz moje cv",
+    "send": "wyślij"
+  },
+  "errors": {
+    "404": "Ups, nie znaleziono strony",
+    "go_back": "Powrót do strony głównej",
+    "form_send_eror": "wystąpił błąd, spróbuj ponownie za parę minut"
+  },
+  "cookies": {
+    "alert": "Ta strona używa ciasteczek",
+    "confirm": "ok"
+  }
+}

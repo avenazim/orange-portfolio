@@ -1,0 +1,111 @@
+{
+  "topbar": {
+    "home": "home",
+    "skills": "skills",
+    "experience": "experience",
+    "my_work": "projects",
+    "about_me": "about me",
+    "contact": "contact"
+  },
+  "header": {
+    "heading": "Name Surname",
+    "subheading": "Profession Name"
+  },
+  "skills": {
+    "title": "my skills",
+    "hard": {
+      "title": "hard",
+      "skill1": "skill1",
+      "skill2": "skill2",
+      "skill3": "skill3",
+      "skill4": "skill4",
+      "skill5": "skill5",
+      "skill6": "skill6",
+      "skill7": "skill7",
+      "skill8": "skill8",
+      "skill9": "skill9",
+      "skill10": "skill10"
+    },
+    "soft": {
+      "title": "soft",
+      "skill1": "skill1",
+      "skill2": "skill2",
+      "skill3": "skill3",
+      "skill4": "skill4",
+      "skill5": "skill5",
+      "skill6": "skill6",
+      "skill7": "skill7",
+      "skill8": "skill8",
+      "skill9": "skill9",
+      "skill10": "skill10"
+    },
+    "languages": {
+      "title": "languages",
+      "language1": "language1",
+      "language2": "language2",
+      "language3" : "language3",
+      "language4": "language4",
+      "native": "native",
+      "advanced": "advanced",
+      "basic": "basic"
+    }
+  },
+  "exp":{
+    "title": "commercial experience",
+    "firm_1_name": "Company Name",
+    "firm_1_years": "01.01.2016 - 01.01.2022",
+    "firm_1_role": "Your role in this company",
+    "firm_2_name": "Company Name",
+    "firm_2_years": "01.01.2022 - 31.12.2023",
+    "firm_2_role": "Your role in this company"
+  },
+  "my_work": {
+    "title": "custom projects",
+    "project_1_name": "project name 1",
+    "project_1_link": "#",
+    "project_2_name": "project name 2",
+    "project_2_link": "#",
+    "more": "also check out my doodles on",
+    "github": "github",
+    "github_link": "https://github.com/"
+  },
+  "about_me": {
+    "title": "about me",
+    "intro": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "content": "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+  },
+  "contact": {
+    "title": "let's stay in touch",
+    "city": "City, Country",
+    "mail": "yourmail@example.com",
+    "github": "https://github.com/",
+    "linkedin": "https://www.linkedin.com/in/",
+    "button": "download my cv",
+    "form": {
+      "name": "name",
+      "email": "email",
+      "message": "message",
+      "nameValidation": "name is required",
+      "emailValidation": "e-mail is required",
+      "emailValidationCorrect": "e-mail is incorrect",
+      "messageValidation": "message is required",
+      "message_success": "message has been sent!"
+    }
+  },
+  "footer": {
+    "copyright": "Copyright ewanazim.pl 2023. All rights reserved."
+  },
+  "buttons" : {
+    "download": "download my CV",
+    "send": "send"
+  },
+  "errors": {
+    "404": "Ups, looks like this page is not found",
+    "go_back": "Go back to homepage",
+    "form_send_eror": "an error ocurred, please try again in a moment"
+  },
+  "cookies": {
+    "alert": "This page uses cookies",
+    "confirm": "ok"
+  }
+}

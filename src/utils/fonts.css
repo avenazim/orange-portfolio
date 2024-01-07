@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'CroissantOne';
+    src: local('fonts'), url(./fonts/CroissantOne-Regular.ttf) format('opentype'); 
+}
+
+@font-face {
+    font-family: 'Mooli';
+    src: local('fonts'), url(./fonts/Mooli-Regular.ttf) format('opentype'); 
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: local('fonts'), url(./fonts/Raleway-Regular.ttf) format('opentype'); 
+}
