@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/orange-portfolio/static/css/main.14e41691.css",
+    "main.js": "/orange-portfolio/static/js/main.aa837616.js",
+    "static/media/exp.jpg": "/orange-portfolio/static/media/exp.93e8c0e0a603dad0a28a.jpg",
+    "static/media/about.jpg": "/orange-portfolio/static/media/about.d793556bacb5ae68b9df.jpg",
+    "static/media/orange_lady.jpg": "/orange-portfolio/static/media/orange_lady.8e227c43109c78a4ddfb.jpg",
+    "static/media/header.png": "/orange-portfolio/static/media/header.78551d481d7976b7752d.png",
+    "static/media/leafs_project.png": "/orange-portfolio/static/media/leafs_project.7808b614833dfda304f3.png",
+    "static/media/Raleway-Regular.ttf": "/orange-portfolio/static/media/Raleway-Regular.c15b0bf7b86f34335251.ttf",
+    "static/media/project.jpg": "/orange-portfolio/static/media/project.b20d3953eb6eeafae871.jpg",
+    "static/media/stain_beige.png": "/orange-portfolio/static/media/stain_beige.89e43706f8f38a11a1bd.png",
+    "static/media/Mooli-Regular.ttf": "/orange-portfolio/static/media/Mooli-Regular.1180a5b80df79ab5d71f.ttf",
+    "static/media/CroissantOne-Regular.ttf": "/orange-portfolio/static/media/CroissantOne-Regular.cc59469cb665a8ce188a.ttf",
+    "static/media/leafs_skills.png": "/orange-portfolio/static/media/leafs_skills.ff64683c38477a63ff22.png",
+    "index.html": "/orange-portfolio/index.html",
+    "static/media/getFetch.cjs": "/orange-portfolio/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.14e41691.css.map": "/orange-portfolio/static/css/main.14e41691.css.map",
+    "main.aa837616.js.map": "/orange-portfolio/static/js/main.aa837616.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14e41691.css",
+    "static/js/main.aa837616.js"
+  ]
+}
